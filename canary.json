@@ -1,0 +1,11 @@
+{
+  "magisk": {    "version": "nopgisk-24101",
+    "versionCode": "24101",
+    "link": "https://raw.githubusercontent.com/Fox2Code/nopgisk-files/main/app-debug.apk",
+    "note": "https://raw.githubusercontent.com/Fox2Code/nopgisk-files/main/notes.md"
+  },
+  "stub": {
+    "versionCode": "24",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk-files/files/stub-release.apk"
+  }
+}
