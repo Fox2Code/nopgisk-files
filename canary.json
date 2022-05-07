@@ -1,13 +1,12 @@
 {
   "magisk": {
-    "version": "1a1b346c",
-    "versionCode": "24102",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@8077d881a8a41754f386c18a8fb330f139b65c26/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@8077d881a8a41754f386c18a8fb330f139b65c26/notes.md"
+    "version": "nopgisk-24308",
+    "versionCode": "24308",
+    "link": "https://raw.githubusercontent.com/Fox2Code/nopgisk-files/main/app-debug.apk",
+    "note": "https://raw.githubusercontent.com/Fox2Code/nopgisk-files/main/notes.md"
   },
   "stub": {
-    "versionCode": "25",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@8077d881a8a41754f386c18a8fb330f139b65c26/stub-release.apk"
+    "versionCode": "28",
+    "link": "https://raw.githubusercontent.com/Fox2Code/nopgisk-files/main/stub-release.apk"
   }
 }
-
